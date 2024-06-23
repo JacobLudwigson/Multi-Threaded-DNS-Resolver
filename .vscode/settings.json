@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "multi-lookup.h": "c"
+    }
+}
